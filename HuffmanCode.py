@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+'''''
+Created on 2017-06-05
+
+@author: Sunchao
+'''
+
+# This class is the process of the haffman
 class Node:
     def __init__(self, freq):
         self.left = None
